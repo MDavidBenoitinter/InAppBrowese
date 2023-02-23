@@ -1,0 +1,7 @@
+{
+  "name": "AppBrowseNuevo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
